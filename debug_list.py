@@ -1,4 +1,4 @@
-#import random
+#VSC_debug testavimo pamoka 2020-12-01
 
 values = [1, 2, 3, 4, 5]
 

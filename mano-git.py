@@ -10,9 +10,8 @@ class Git:
 
     def __str__(self):
         return self.name +', '+ str(self.age)
-
-
-
         
 a = Git("alio",22)
+b = Git("blabla",33)
 print(a)
+print(b)

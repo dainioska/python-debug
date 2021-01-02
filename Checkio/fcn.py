@@ -1,4 +1,3 @@
-text = ('')
 
 def fcn(text):
     return pass

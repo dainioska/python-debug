@@ -8,6 +8,4 @@ def digits(num):
 #     j_strings = int("".join(strings))
 #     return j_strings
 
-x = digits(9119)
-print(x)
-print(type(x))
+print(digits(9119))

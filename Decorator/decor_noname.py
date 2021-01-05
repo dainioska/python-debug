@@ -1,4 +1,4 @@
-#python decorator fot debuging
+#python decorator for debuging
 
 from datetime import datetime
 

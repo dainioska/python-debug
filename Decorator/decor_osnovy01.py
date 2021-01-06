@@ -1,4 +1,5 @@
 # execute func and print to log.txt
+
 import functools
 
 def logger(func):
